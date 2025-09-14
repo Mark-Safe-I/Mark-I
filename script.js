@@ -1,4 +1,4 @@
-const apiKey = "YOUR_YOUAIzaSyD7wuChi98jDkM2M7nTIKNl1nN238n1-5QTUBE_API_KEY"; // Replace with your API key
+const apiKey = "-"; // Replace with your API key
 const blockedWords = ["badword1", "badword2", "inappropriate"]; // Add more blocked terms
 
 function safeSearch() {
